@@ -1,0 +1,96 @@
+.jumbotron {
+  pa dding-bottom: 48px;
+  padding-top: 100px;
+  padding-left: 60px;
+  padding-right: 60px;
+  height: 654px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: #0e48ad;
+}
+
+a:focus,
+a:hover {
+  color: #123294;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: bold;
+}
+h1 {
+  color: orange;
+  text-decoration: none;
+  text-align: center;
+  position: relative;
+  padding-top: 10px;
+  font-size: 4.4rem;
+}
+.h--alt {
+  font-weight: 300;
+  margin-top: 0;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 14px;
+}
+a {
+  color: #0e48ad;
+}
+a:focus,
+a:hover {
+  color: #123294;
+}
+.jumbotron.carddj {
+  border-radius: 0;
+  background: transparent;
+  position: relative;
+  color: yellow;
+  letter-spacing: 0.02em;
+  padding-top: 300px;
+}
+
+.jumbotron.carddj p {
+  font-size: 16px;
+}
+
+.carddjWrap {
+  background-color: #000;
+  position: relative;
+  margin: 0;
+}
+
+.carddjMask {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #000;
+  opacity: 0.5;
+}
+
+.carddjWrap .btn {
+  border-radius: 0;
+  font-size: 16px;
+  padding: 6px 14px;
+}
+
+.carddjWrap .btn {
+  background-color: #cfb87c;
+  color: #222;
+  border: 0px solid transparent;
+}
+
+.carddjWrap .btn-lg:hover {
+  background-color: #c8ad6a;
+}
